@@ -5,5 +5,4 @@ def augumento_positivo():
     else:
         print("O número é negativo (N).")
 
-
 augumento_positivo()
